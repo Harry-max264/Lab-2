@@ -1,0 +1,56 @@
+[
+  {
+    "id": "S1",
+    "title": "Vaswani et al., Attention Is All You Need",
+    "published": "2017-06-12",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "verified_claim": "The Transformer uses attention without recurrence or convolutions; translation experiments demonstrate parallelizable training.",
+    "verification_scope": "Abstract and submission history; architecture evidence, not an origin date for all agents.",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "S2",
+    "title": "Lewis et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "published": "2020-05-22",
+    "url": "https://arxiv.org/abs/2005.11401",
+    "verified_claim": "RAG combines a pretrained generator with retrieved external memory to address knowledge access and provenance problems.",
+    "verification_scope": "Abstract and submission history; selected NLP tasks, not enterprise procurement validation.",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "S3",
+    "title": "Yao et al., ReAct: Synergizing Reasoning and Acting in Language Models",
+    "published": "2022-10-06; ICLR version 2023-03-10",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "verified_claim": "ReAct interleaves model reasoning and task actions, incorporating observations from external environments.",
+    "verification_scope": "Abstract and submission history; research milestone, not the first autonomous agent or proof of universal reliability.",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "S4",
+    "title": "Schick et al., Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "published": "2023-02-09",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "verified_claim": "Toolformer learns when and how to call APIs and incorporate results, addressing weaknesses such as calculation and lookup.",
+    "verification_scope": "Abstract and submission history; a separate tool-learning approach, not a required component of every agent.",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "S5",
+    "title": "Siemens Energy, Suppliers",
+    "published": "Undated; accessed 2026-10-06",
+    "url": "https://www.siemens-energy.com/us/en/home/supplier.html",
+    "verified_claim": "Siemens Energy describes digital supplier processes and purchasing requirements that vary by country, region or location.",
+    "verification_scope": "Official public company background only; does not verify the hypothetical department pain points.",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "S6",
+    "title": "Siemens Energy, Electronic Invoicing",
+    "published": "Undated; accessed 2026-10-06",
+    "url": "https://www.siemens-energy.com/us/en/home/supplier/digital-procurement-tools/electronic-invoicing.html",
+    "verified_claim": "The company describes EDI-based automation of invoice receipt, processing and booking.",
+    "verification_scope": "Official public description of existing automation; does not establish agentic AI deployment or measured savings.",
+    "accessed": "2026-10-06"
+  }
+]

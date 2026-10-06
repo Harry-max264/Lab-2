@@ -1,0 +1,17 @@
+FROZEN CORE INTACT
+FULL SCHEMA PASS: cases/contrast_1.json
+FULL SCHEMA PASS: cases/contrast_2.json
+FULL SCHEMA PASS: cases/primary.json
+FULL SCHEMA PASS: responses/contrast_1_response.json
+VALIDATION PASSED
+FULL SCHEMA PASS: responses/contrast_2_response.json
+VALIDATION PASSED
+FULL SCHEMA PASS: responses/primary_response.json
+VALIDATION PASSED
+FULL SCHEMA PASS: responses/primary_v0.1_response.json
+VALIDATION PASSED
+PACKET REPRODUCTION PASS: contrast_1
+PACKET REPRODUCTION PASS: contrast_2
+PACKET REPRODUCTION PASS: primary
+CONTRAST STRUCTURE PASS (qualitative interpretation: test_record.md)
+PACKAGE VALIDATION PASSED
